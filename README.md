@@ -30,4 +30,4 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ## 🎉 How to Use  
 1. Clone the repo:  
    ```bash
-   git clone  https://github.com/12Seebi13/something-special.git
+   git clone  https://github.com/12Seebi13/its-urs.git
